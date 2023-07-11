@@ -1,6 +1,6 @@
 # mpreg
 
-mpreg - *m*inimal *p*arser for *reg*ular expressions
+mpreg - **m**inimal **p**arser for **reg**ular expressions
 
 a c99 header-only library for parsing (limited) regular expressions
 
